@@ -1,8 +1,8 @@
 CMakeFiles/practica02a.dir/src/functions.cpp.o: \
- /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a_fernandoramirez/c++/src/functions.cpp \
+ /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a/c++/src/functions.cpp \
  /usr/include/stdc-predef.h \
- /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a_fernandoramirez/c++/src/../include/functions.h \
- /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a_fernandoramirez/c++/src/../include/structs.h \
+ /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a/c++/src/../include/functions.h \
+ /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a/c++/src/../include/structs.h \
  /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \

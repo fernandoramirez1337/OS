@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/include"
+CXX_INCLUDES = -I"/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/include"
 
 CXX_FLAGS = -std=gnu++17
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++
+# Install script for directory: /home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

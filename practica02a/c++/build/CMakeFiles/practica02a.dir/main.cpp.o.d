@@ -1,5 +1,5 @@
 CMakeFiles/practica02a.dir/main.cpp.o: \
- /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a_fernandoramirez/c++/main.cpp \
+ /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a/c++/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/9/iostream \
  /usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h \
@@ -138,5 +138,5 @@ CMakeFiles/practica02a.dir/main.cpp.o: \
  /usr/include/c++/9/bits/basic_ios.tcc \
  /usr/include/c++/9/bits/ostream.tcc /usr/include/c++/9/istream \
  /usr/include/c++/9/bits/istream.tcc \
- /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a_fernandoramirez/c++/include/functions.h \
- /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a_fernandoramirez/c++/include/structs.h
+ /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a/c++/include/functions.h \
+ /home/fernando/Documents/Semestre\ 2021-2/Sistemas\ Operativos\ -\ CCOMP6-2/practica02a/c++/include/structs.h

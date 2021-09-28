@@ -10,6 +10,7 @@ int main()
 
     struct args *duo = (struct args *)malloc(sizeof(struct args));
     duo->new_id = 21;
+    //duo->last_id = 11;
     duo->last_id = pthread_self();
 
 

@@ -53,10 +53,10 @@ RM = /snap/cmake/936/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++"
+CMAKE_SOURCE_DIR = "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build"
+CMAKE_BINARY_DIR = "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/practica02a.dir/depend.make
@@ -72,30 +72,30 @@ include CMakeFiles/practica02a.dir/flags.make
 CMakeFiles/practica02a.dir/main.cpp.o: CMakeFiles/practica02a.dir/flags.make
 CMakeFiles/practica02a.dir/main.cpp.o: ../main.cpp
 CMakeFiles/practica02a.dir/main.cpp.o: CMakeFiles/practica02a.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/practica02a.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/practica02a.dir/main.cpp.o -MF CMakeFiles/practica02a.dir/main.cpp.o.d -o CMakeFiles/practica02a.dir/main.cpp.o -c "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/practica02a.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/practica02a.dir/main.cpp.o -MF CMakeFiles/practica02a.dir/main.cpp.o.d -o CMakeFiles/practica02a.dir/main.cpp.o -c "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/main.cpp"
 
 CMakeFiles/practica02a.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/practica02a.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/main.cpp" > CMakeFiles/practica02a.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/main.cpp" > CMakeFiles/practica02a.dir/main.cpp.i
 
 CMakeFiles/practica02a.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/practica02a.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/main.cpp" -o CMakeFiles/practica02a.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/main.cpp" -o CMakeFiles/practica02a.dir/main.cpp.s
 
 CMakeFiles/practica02a.dir/src/functions.cpp.o: CMakeFiles/practica02a.dir/flags.make
 CMakeFiles/practica02a.dir/src/functions.cpp.o: ../src/functions.cpp
 CMakeFiles/practica02a.dir/src/functions.cpp.o: CMakeFiles/practica02a.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/practica02a.dir/src/functions.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/practica02a.dir/src/functions.cpp.o -MF CMakeFiles/practica02a.dir/src/functions.cpp.o.d -o CMakeFiles/practica02a.dir/src/functions.cpp.o -c "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/src/functions.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/practica02a.dir/src/functions.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/practica02a.dir/src/functions.cpp.o -MF CMakeFiles/practica02a.dir/src/functions.cpp.o.d -o CMakeFiles/practica02a.dir/src/functions.cpp.o -c "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/src/functions.cpp"
 
 CMakeFiles/practica02a.dir/src/functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/practica02a.dir/src/functions.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/src/functions.cpp" > CMakeFiles/practica02a.dir/src/functions.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/src/functions.cpp" > CMakeFiles/practica02a.dir/src/functions.cpp.i
 
 CMakeFiles/practica02a.dir/src/functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/practica02a.dir/src/functions.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/src/functions.cpp" -o CMakeFiles/practica02a.dir/src/functions.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/src/functions.cpp" -o CMakeFiles/practica02a.dir/src/functions.cpp.s
 
 # Object files for target practica02a
 practica02a_OBJECTS = \
@@ -109,7 +109,7 @@ practica02a: CMakeFiles/practica02a.dir/main.cpp.o
 practica02a: CMakeFiles/practica02a.dir/src/functions.cpp.o
 practica02a: CMakeFiles/practica02a.dir/build.make
 practica02a: CMakeFiles/practica02a.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable practica02a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable practica02a"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/practica02a.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/practica02a.dir/clean:
 .PHONY : CMakeFiles/practica02a.dir/clean
 
 CMakeFiles/practica02a.dir/depend:
-	cd "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a_fernandoramirez/c++/build/CMakeFiles/practica02a.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build" "/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02a/c++/build/CMakeFiles/practica02a.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/practica02a.dir/depend
 
