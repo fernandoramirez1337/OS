@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/practica02a.dir/main.cpp.o CMakeFiles/practica02a.dir/src/functions.cpp.o -o practica02a  -lpthread 
