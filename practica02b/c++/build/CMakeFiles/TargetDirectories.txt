@@ -1,0 +1,3 @@
+/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02b/c++/build/CMakeFiles/rebuild_cache.dir
+/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02b/c++/build/CMakeFiles/practica02b.dir
+/home/fernando/Documents/Semestre 2021-2/Sistemas Operativos - CCOMP6-2/practica02b/c++/build/CMakeFiles/edit_cache.dir

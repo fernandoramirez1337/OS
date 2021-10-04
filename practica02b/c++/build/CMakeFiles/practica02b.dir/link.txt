@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/practica02b.dir/main.cpp.o -o practica02b  -lpthread 
